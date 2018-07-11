@@ -1,4 +1,4 @@
-const BASE_URL = 'https://herokucmserver.herokuapp.com';
+const BASE_URL = 'http://localhost:8080';
 export default function getBaseURL() {
     return `${BASE_URL}`;
 }
